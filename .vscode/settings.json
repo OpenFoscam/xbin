@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.ui": "xml",
+        "getopt.h": "c"
+    }
+}

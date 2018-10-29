@@ -1,0 +1,6 @@
+[submodule "include/files"]
+	path = include/files
+	url = https://github.com/hypothermic/files.h.git
+[submodule "ext/rsync"]
+	path = ext/rsync
+	url = https://git.samba.org/rsync.git
