@@ -9,6 +9,8 @@ autom4te.cache
 aclocal.m4
 configure
 config.h.in
+config.log
+config.status
 libtool
 m4/libtool.m4
 m4/ltoptions.m4
@@ -21,3 +23,6 @@ m4/lt~obsolete.m4
 build-aux/
 build/
 ac/
+Makefile
+*.o
+*.Po
